@@ -1,9 +1,9 @@
 {
-  "name": "Corey Schafer",
-  "label": "Software Engineer",
+  "name": "Jon-Erik Akashi",
+  "label": "Data Engineer",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
-    "email": "CoreyMSchafer@gmail.com",
+    "email": "jonerikakashi@gmail.com",
     "phone": "",
     "location": "Charleston, WV"
   },
@@ -11,161 +11,134 @@
   "url": "https://coreyms.com",
   "social_links": [
     {
-      "label": "Coreyms.com",
-      "url": "https://coreyms.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "YouTube",
-      "url": "https://youtube.com/c/coreyms",
-      "svg_path": "img/youtube.svg"
-    },
-    {
       "label": "Instagram",
-      "url": "https://www.instagram.com/coreymschafer",
+      "url": "https://www.instagram.com/narakusdemon88",
       "svg_path": "img/instagram.svg"
     },
     {
       "label": "Github",
-      "url": "https://github.com/CoreyMSchafer",
+      "url": "https://github.com/narakusdemon88",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
-    {
-      "company": "LASP (Labratory for Atmospheric and Space Physics)",
-      "position": "Software Engineer",
-      "url": "https://lasp.colorado.edu/",
-      "start_date": "2015",
-      "end_date": "2019",
-      "summary": "",
-      "highlights": [
-        "Created and maintained back-end API services using Flask.",
-        "Created system administration scripts using Python to automate the processing and deployment of mission-critical data.",
-        "Tasked with migrating in-house data pipelines to a cloud-based solution using AWS."
-      ]
-    },
-    {
-      "company": "WVU GIS Technical Center",
-      "position": "Software Engineer",
-      "url": "https://wvgis.wvu.edu/",
-      "start_date": "2012",
-      "end_date": "2015",
-      "summary": "",
-      "highlights": [
-        "Developed and designed GIS web applications with the ArcGIS JavaScript API",
-        "Wrote and published geoprocessing services using Python and ArcPy",
-        "Created backend user authentication systems with PHP and MySQL"
-      ]
-    },
-    {
-      "company": "MATRIC (Mid-Atlantic Technology, Research, and Innovation Center)",
-      "position": "Software Engineer",
-      "url": "https://www.matricinnovates.com/",
-      "start_date": "2010",
-      "end_date": "2011",
-      "summary": "",
-      "highlights": [
-        "Created GIS web applications with ActionScript and the ArcGIS API for Flex.",
-        "Developed custom widgets for routing, wind data visualization, and simulations.",
-        "Wrote and maintained SQL-based queries to efficiently retrieve and analyze data from GIS REST services."
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "title": "Educational Content Creator on YouTube",
-      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
-      "url": "https://youtube.com/c/coreyms",
-      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
-      "images": [
-        {
-          "img_path": "portfolio_media/yt1.png",
-          "caption": "Main Channel"
-        },
-        {
-          "img_path": "portfolio_media/yt2.png",
-          "caption": "Tutorials"
-        },
-        {
-          "img_path": "portfolio_media/yt3.png",
-          "caption": "Live Streams"
-        }
-      ]
-    }
-  ],
-  "volunteer_experience": [
-    {
-      "organization": "Heritage Point Assisted Living",
-      "position": "Computer Assistance",
-      "url": "https://www.heritage-point.com/",
-      "start_date": "2012",
-      "end_date": "2015",
-      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
-      "highlights": []
-    },
-    {
-      "organization": "Marshall University",
-      "position": "Student Ambassador",
-      "url": "https://marshall.edu",
-      "start_date": "2007",
-      "end_date": "2008",
-      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
-      "highlights": []
-    }
-  ],
+  {
+    "company": "Amazon Japan",
+    "position": "Data Engineer",
+    "url": "https://www.amazon.co.jp/",
+    "start_date": "2024-01",
+    "end_date": "Present",
+    "summary": "",
+    "highlights": [
+      "Led cloud migration of legacy systems to AWS EC2, improving scalability of distributed pipelines.",
+      "Refactored data workflows from pandas to PySpark for better performance on large-scale data.",
+      "Reduced manual upload errors by 40% through governance-focused cross-functional collaboration.",
+      "Mentored new hires and participated in Amazon’s formal mentorship program."
+    ]
+  },
+  {
+    "company": "Amazon Japan",
+    "position": "Lead Generation Developer",
+    "url": "https://www.amazon.co.jp/",
+    "start_date": "2020-10",
+    "end_date": "2023-12",
+    "summary": "",
+    "highlights": [
+      "Developed an internal system to reduce duplicate customer records by 50%.",
+      "Automated CRM dashboards using Python and SQL for marketing analytics.",
+      "Collaborated regularly with business stakeholders to define and deliver data solutions."
+    ]
+  },
+  {
+    "company": "Rakuten",
+    "position": "Business Intelligence Engineer",
+    "url": "https://global.rakuten.com/",
+    "start_date": "2018-03",
+    "end_date": "2020-09",
+    "summary": "",
+    "highlights": [
+      "Acted as technical point-of-contact for a top Japanese insurance client; presented weekly dashboard reviews in Japanese.",
+      "Built ML-powered dashboards to reduce manual reporting time and enhance operations.",
+      "Used GCP (BigQuery) to automate ad generation, reducing ad creation time by 95%.",
+      "Mentored and onboarded new engineers, assigning tasks and guiding technical growth."
+    ]
+  },
+  {
+    "company": "Rakuten",
+    "position": "Software Engineer",
+    "url": "https://global.rakuten.com/",
+    "start_date": "2014-10",
+    "end_date": "2018-02",
+    "summary": "",
+    "highlights": [
+      "Built internal web tools and monitoring dashboards to streamline troubleshooting and client support.",
+      "Automated operational tasks using Python and MySQL across business teams."
+    ]
+  },
+  {
+    "company": "Dell Inc.",
+    "position": "Leadership Development Program",
+    "url": "https://www.dell.com/",
+    "start_date": "2012-08",
+    "end_date": "2014-09",
+    "summary": "",
+    "highlights": [
+      "Completed rotations in sales, NLP, and analytics.",
+      "Led cross-functional collaboration and insights generation across departments."
+    ]
+  }
+],
   "education": [
-    {
-      "institution": "Marshall University",
-      "location": "Hungington, WV, USA",
-      "url": "https://marshall.edu",
-      "degrees": [
-        "Bachelor of Science in Computer Science",
-        "Minor in Mathematics"
-      ],
-      "honors": [
-        "2010 Outstanding Student Award",
-        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
-        "Placed in a District ACM ICPC Team Programming Contest"
-      ],
-      "gpa_cumulative": "3.29",
-      "gpa_major": "3.93",
-      "graduation_date": "2010"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Python, Flask, Django",
-      "proficiency": 100,
-      "proficiency_label": "Expert"
-    },
-    {
-      "name": "System Administration, Linux",
-      "proficiency": 90,
-      "proficiency_label": "Advanced"
-    },
-    {
-      "name": "JavaScript, HTML, CSS",
-      "proficiency": 75,
-      "proficiency_label": "Comfortable"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Woodworking",
-      "summary": "",
-      "images": [
-        {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
-        },
-        {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
-        }
-      ]
-    }
-  ],
-  "languages": [],
-  "references": []
+  {
+    "institution": "Georgia Institute of Technology",
+    "location": "Atlanta, GA, USA",
+    "url": "https://www.gatech.edu/",
+    "degrees": [
+      "Master of Science in Computer Science"
+    ],
+    "honors": [],
+    "gpa_cumulative": "",
+    "gpa_major": "",
+    "graduation_date": "2024-12"
+  },
+  {
+    "institution": "University of Oregon",
+    "location": "Eugene, OR, USA",
+    "url": "https://www.uoregon.edu/",
+    "degrees": [
+      "Bachelor of Science in Economics"
+    ],
+    "honors": [],
+    "gpa_cumulative": "",
+    "gpa_major": "",
+    "graduation_date": "2012-06"
+  }
+],
+"skills": [
+  {
+    "name": "Python, R, SQL",
+    "proficiency": 100,
+    "proficiency_label": "Expert"
+  },
+  {
+    "name": "Big Data & ML: PySpark, Pandas, NumPy, Scikit-learn, PyTorch, NLTK",
+    "proficiency": 90,
+    "proficiency_label": "Advanced"
+  },
+  {
+    "name": "Cloud Platforms: AWS (EC2, Athena, Redshift, S3, EMR), GCP (BigQuery)",
+    "proficiency": 90,
+    "proficiency_label": "Advanced"
+  },
+  {
+    "name": "Technologies: Airflow, Jupyter, Flask, Selenium, Beautiful Soup",
+    "proficiency": 85,
+    "proficiency_label": "Proficient"
+  },
+  {
+    "name": "Expertise: Data Engineering, Data Pipelines, Mentorship, Dashboarding, Automation",
+    "proficiency": 100,
+    "proficiency_label": "Expert"
+  }
+]
 }
